@@ -1,0 +1,1 @@
+{"version":3,"file":"Subscription.js","sourceRoot":"","sources":["../../src/Subscription.ts"],"names":[],"mappings":"","sourcesContent":["\nexport interface Subscription {\n  remove: () => Promise<Object>;\n}\n"]}

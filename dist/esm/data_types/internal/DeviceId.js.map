@@ -1,0 +1,1 @@
+{"version":3,"file":"DeviceId.js","sourceRoot":"","sources":["../../../../src/data_types/internal/DeviceId.ts"],"names":[],"mappings":"","sourcesContent":["export type DeviceId = {\n  type: 'deviceID';\n  value: string;\n};\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Name.js","sourceRoot":"","sources":["../../../../src/data_types/internal/Name.ts"],"names":[],"mappings":"","sourcesContent":["/**\n * Device name\n */\nexport type Name = {\n  type: 'name';\n  value: string;\n};\n"]}

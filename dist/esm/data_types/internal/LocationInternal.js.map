@@ -1,0 +1,1 @@
+{"version":3,"file":"LocationInternal.js","sourceRoot":"","sources":["../../../../src/data_types/internal/LocationInternal.ts"],"names":[],"mappings":"","sourcesContent":["export type LocationInternal = {\n  type: 'location';\n  value: {\n    latitude: number;\n    longitude: number;\n  };\n};\n"]}

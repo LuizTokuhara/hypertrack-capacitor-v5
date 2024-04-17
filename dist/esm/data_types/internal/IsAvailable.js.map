@@ -1,0 +1,1 @@
+{"version":3,"file":"IsAvailable.js","sourceRoot":"","sources":["../../../../src/data_types/internal/IsAvailable.ts"],"names":[],"mappings":"","sourcesContent":["export type IsAvailable = {\n  type: 'isAvailable';\n  value: boolean;\n};\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"GeotagData.js","sourceRoot":"","sources":["../../../../src/data_types/internal/GeotagData.ts"],"names":[],"mappings":"","sourcesContent":["import type { LocationInternal } from './LocationInternal';\n\nexport type GeotagData = {\n  data: Object;\n  expectedLocation?: LocationInternal;\n};\n"]}

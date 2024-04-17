@@ -1,0 +1,1 @@
+{"version":3,"file":"Metadata.js","sourceRoot":"","sources":["../../../../src/data_types/internal/Metadata.ts"],"names":[],"mappings":"","sourcesContent":["export type Metadata = {\n  type: 'metadata';\n  value: Object;\n};\n"]}

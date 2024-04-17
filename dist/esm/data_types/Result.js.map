@@ -1,0 +1,1 @@
+{"version":3,"file":"Result.js","sourceRoot":"","sources":["../../../src/data_types/Result.ts"],"names":[],"mappings":"","sourcesContent":["export type Success<S> = {\n  type: 'success';\n  value: S;\n};\n\nexport type Failure<F> = {\n  type: 'failure';\n  value: F;\n};\n\nexport type Result<S, F> = Success<S> | Failure<F>;\n"]}

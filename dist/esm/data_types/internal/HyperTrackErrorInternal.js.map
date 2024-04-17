@@ -1,0 +1,1 @@
+{"version":3,"file":"HyperTrackErrorInternal.js","sourceRoot":"","sources":["../../../../src/data_types/internal/HyperTrackErrorInternal.ts"],"names":[],"mappings":"","sourcesContent":["export type HyperTrackErrorInternal = {\n  type: 'error';\n  value: string;\n};\n"]}
